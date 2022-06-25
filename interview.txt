@@ -4,3 +4,7 @@ Deference between typescript and java script?
 •	TypeScript is known as an Object-oriented programming language whereas JavaScript is a prototype based language.
 •	TypeScript has a feature known as Static typing but JavaScript does not support this feature.
 •	TypeScript supports Interfaces but JavaScript does not.
+
+what is route resolver in angular
+what is the interceptor in angular
+why not allow angular two directive in elements
