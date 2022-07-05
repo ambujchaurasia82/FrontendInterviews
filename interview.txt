@@ -1,132 +1,125 @@
-What is Typescript?
+Q. What is Typescript?
 TypeScript is a strongly typed, object oriented, compiled language. It was designed by Anders Hejlsberg (designer of C#) at Microsoft. TypeScript is both a language and a set of tools. TypeScript is a typed superset of JavaScript compiled to JavaScript. In other words, TypeScript is JavaScript plus some additional features.
 Deference between typescript and java script?
 •	TypeScript is known as an Object-oriented programming language whereas JavaScript is a prototype based language.
 •	TypeScript has a feature known as Static typing but JavaScript does not support this feature.
 •	TypeScript supports Interfaces but JavaScript does not.
 
-what is route resolver in angular
-what is the interceptor in angular
-why not allow angular two directive in elements
+Q. what is route resolver in angular
+Q. what is the interceptor in angular
+Q. why not allow angular two directive in elements
 
 
 
 
 Congnizant
-1.	what is angular life cycle
-ngOnChanges
-ngOnInit
-ngDoCheck
-ngAfterContentInit
-ngAfterContentChecked
-ngAfterViewInit
-ngAfterViewChecked
-ngDestroy
-2.	What is interface
-3.	What is Observable
-4.	What is ngModule
-5.	What is appModule
-App Module Basically set default load data in first view
+Q. what is angular life cycle
+Ans. ngOnChanges
+     ngOnInit
+     ngDoCheck
+     ngAfterContentInit
+     ngAfterContentChecked
+     ngAfterViewInit
+     ngAfterViewChecked
+     ngDestroy
+Q. What is interface
+Q. What is Observable
+Q. What is ngModule
+Q. What is appModule
+Ans. App Module Basically set default load data in first view
 
-6.	In a app module import, declaration, providers, exports, bootstrap
-Imports is used for module inject
-Declaration is used for component inject
-Providers are used services inject
-Exports are use one module to sent another module
-Bootstrap is user define a root component
+Q. In a app module import, declaration, providers, exports, bootstrap
+Ans. Imports is used for module inject
+     Declaration is used for component inject
+     Providers are used services inject
+     Exports are use one module to sent another module
+     Bootstrap is user define a root component
+Q. Where you include a pipes
+Q. What is deference between pure and impure pipes?
+Ans. Pure pipe is not display the changes but impure pipe is display the changes
 
-7.	Where you include a pipes
-8.	What is deference between pure and impure pipes?
-Pure pipe is not display the changes but impure pipe is display the changes
-
-9.	What is interceptor
-10.	What is guard
-11.	What is canactivated and candeactivated
-12.	How many types of guard
-13.	What is switchMap
-14.	What is tap
-15.	Tell me around any 5 rxjs features
-16.	What is key component?
-Components
-Modules
-Templates
-Services
-Metadata and decorators
+Q. What is interceptor
+Q. What is guard
+Q. What is canactivated and candeactivated
+Q. How many types of guard
+Q. What is switchMap
+Q. What is tap
+Q. Tell me around any 5 rxjs features
+Q. What is key component?
+Ans. Components
+     Modules
+     Templates
+     Services
+     Metadata and decorators
 
 Javascript
-17.	Can you tell me es6 features?
+Q. Can you tell me es6 features?
+Ans. a)	let and const Keywords
+     b) Arrow Functions
+     c)	Multi-line Strings
+     d)	Default Parameters
+     e)	Template Literals
+     f)	Destructuring Assignment
+     g)	Enhanced Object Literals
+     h)	Promises
+     i)	Classes
+     j)	Modules
 
-a)	let and const Keywords
-b)	Arrow Functions
-c)	Multi-line Strings
-d)	Default Parameters
-e)	Template Literals
-f)	Destructuring Assignment
-g)	Enhanced Object Literals
-h)	Promises
-i)	Classes
-j)	Modules
-
-
-18.	what is difference between filter and map
-Map is working modify on existing array, but filter is not work
-Filter is working based on condition
-
-19.	What is difference between slice and splice
-Slice return new array value of iteration
-Splice return same array value of iteration
-
-20.	What is hosting in JavaScript?
-21.	What is the closure in JavaScript?
-22.	What is a bind and apply method?
-23.	What is clone and object?
-24.	What is deference undefine and null
-Undefined is declare variable but value does not assign LIKE (var a;)
-null is declare variable value assign null LIKE (var a = null;)
-
-25.	 What is Function curing
-26.	What is Function expression
-27.	What is callback function and high order function
-Callback function is a function which is used as a argument in another function which is called as High Order function. 
-Example: calc(x, c, operation){} operation(){}
+Q. what is difference between filter and map
+Ans. Map is working modify on existing array, but filter is not work. Filter is working based on condition.
+Q. What is difference between slice and splice
+Ans. a)	Slice return new array value of iteration
+     b)	Splice return same array value of iteration
+Q. What is hosting in JavaScript?
+Q. What is the closure in JavaScript?
+Q. What is a bind and apply method?
+Q. What is clone and object?
+Q. What is deference undefine and null
+Ans. a)	Undefined is declare variable but value does not assign LIKE (var a;)
+     b)	null is declare variable value assign null LIKE (var a = null;)
+Q. What is Function curing
+Q. What is Function expression
+Q. What is callback function and high order function
+Ans. Callback function is a function which is used as a argument in another function and which is called as High Order function. 
+     Example: calc(x, c, operation){} operation(){} calc is a high order function, opration is a callback function.
 
 Wipro
-1.	What is the lexical scope?
-2.	Disadvantages of closure.
-3.	What is pure function in JavaScript.
-4.	What is route resolver in angular?
-5.	What is content projection
-6.	What is ng-content
-7.	What is interceptor
-8.	What is pure and impure
+Q. What is the lexical scope?
+Q. Disadvantages of closure.
+Q. What is pure function in JavaScript.
+Q. What is route resolver in angular?
+Q. What is content projection
+Q. What is ng-content
+Q. What is interceptor
+Q. What is pure and impure
 
 Iris
-1.	what is the 'strict' mode in javascript and how can it be enabled
-2.	what is ajax request in javascript and jquery
-3.	what is deffrent between css and scss
-4.	how to get url parameters in javascript and angular 8
-5.	for in vs for of vs foreach
-6.	what is various points of comparison es5 vs es6
-7.	how to remove array elements
-8.	what is babel or polyfill
-9.	how can be change complete theme styles in angular 8
-10.	what are the default and options parameters in functional programming
-11.	what are singleton services in angular
-12.	what are the http interceptor
+Q. what is the 'strict' mode in javascript and how can it be enabled
+Q. what is ajax request in javascript and jquery
+Q. what is deffrent between css and scss
+Q. how to get url parameters in javascript and angular 8
+Q. for in vs for of vs foreach
+Q. what is various points of comparison es5 vs es6
+Q. how to remove array elements
+Q. what is babel or polyfill
+Q. how can be change complete theme styles in angular 8
+Q. what are the default and options parameters in functional programming
+Q. what are singleton services in angular
+Q. what are the http interceptor
 
 Iris 2nd Round
-1.	What types of Auth Guard is used? Activated and canActivated
-2.	How can be notify user on filling the form.
-3.	Can we use ngIf and ngFor use in same tag ?
-4.	How will you implement a lazy loader?
-5.	What is a load children?
-6.	How can share a data without a connection component
-7.	What is JIT and AOT Build?
-8.	What is pipe and default pipe
-9.	What is dependency and devdependencies in package.json
-10.	What is ngAfterViewInit.
-11.	What is Hosting in JavaScript?
-12.	
+Q. What types of Auth Guard is used? Activated and canActivated
+Q. How can be notify user on filling the form.
+Q. Can we use ngIf and ngFor use in same tag ?
+Q. How will you implement a lazy loader?
+Q. What is a load children?
+Q. How can share a data without a connection component
+Q. What is JIT and AOT Build?
+Q. What is pipe and default pipe
+Q. What is dependency and devdependencies in package.json
+Q. What is ngAfterViewInit.
+Q. What is Hosting in JavaScript?
+Q. 	
 console.log(a);
 console.log(b);
 var a = 9;
@@ -152,77 +145,69 @@ obj.key?
 
 
 
-
-
-
-
-
-
-
 Thinksys
 
-1. what are preprocesor?
-2. what are semantics tags?
-3. what is position in css?
-4. diference between sticky and fixed position?
-5. difference between html4 and html5?
-6. what is variables in JS?
-7. what are callback function in js?
-8. what are high order function?
-9. what is this keyword in js?
-10. swapping of two variables with or without using 3rd variable?
-11. what is hoisting in javascript?
-12. what is strict mode in javascript and when it was introduced?
-13. what is ECMAScript ?
-14. what is css Graphics?
-15. what is canvas in html?
-16. make tip calculator program?
-17. what are semantic HTMl?
-18. what is CSS Box model?
-19. difference between inline-block and block and inline element?
-20. difference between element and tag?
-21. what are new things intoduced in HTML5?
-22. which part of page load first HTML or CSS or JS?
-23. what are meta Tags in html?
-24. what is viewport ?
-25. what is adaptive and reponsive design?
-26. what are breakpoints in media query?
-27. what is z-index and what is by default z-index of any tag?
-28. what is bubbling and capturing phase in js?
-29. what is universal selector?
-30. what is variable in CSS?
-31. types of SVG?
-32. Can we use <section> tag inside <footer> tag?
-33. what are entities in html?
-34. difference between Session storage and Local Storage?
-35. what is url encoding in Html?
-36. what is computer code in html?
-37. what is pseudo classes and pseudo element ?
-38. difference between == and === ?
-39. what is flex or flex Box model?
-40. what is grid in css?
-41. define max-width and min-width?
-42. what are CSS Combinator?
-43. Challenges faced during service and complexity also?
-44. what is gulp.js?
-45. script of gulp.js?
+Q. what are preprocesor?
+Q. what are semantics tags?
+Q. what is position in css?
+Q. diference between sticky and fixed position?
+Q. difference between html4 and html5?
+Q. what is variables in JS?
+Q. what are callback function in js?
+Q. what are high order function?
+Q. what is this keyword in js?
+Q. swapping of two variables with or without using 3rd variable?
+Q. what is hoisting in javascript?
+Q. what is strict mode in javascript and when it was introduced?
+Q. what is ECMAScript ?
+Q. what is css Graphics?
+Q. what is canvas in html?
+Q. make tip calculator program?
+Q. what are semantic HTMl?
+Q. what is CSS Box model?
+Q. difference between inline-block and block and inline element?
+Q. difference between element and tag?
+Q. what are new things intoduced in HTML5?
+Q. which part of page load first HTML or CSS or JS?
+Q. what are meta Tags in html?
+Q. what is viewport ?
+Q. what is adaptive and reponsive design?
+Q. what are breakpoints in media query?
+Q. what is z-index and what is by default z-index of any tag?
+Q. what is bubbling and capturing phase in js?
+Q. what is universal selector?
+Q. what is variable in CSS?
+Q. types of SVG?
+Q. Can we use <section> tag inside <footer> tag?
+Q. what are entities in html?
+Q. difference between Session storage and Local Storage?
+Q. what is url encoding in Html?
+Q. what is computer code in html?
+Q. what is pseudo classes and pseudo element ?
+Q. difference between == and === ?
+Q. what is flex or flex Box model?
+Q. what is grid in css?
+Q. define max-width and min-width?
+Q. what are CSS Combinator?
+Q. Challenges faced during service and complexity also?
+Q. what is gulp.js?
+Q. script of gulp.js?
 
-what is output
-const arr = [10, 12, 15, 21];
-for (var i = 0; i < arr.length; i++) {
-setTimeout(function() {
-console.log(`index: ${i}, element: ${arr[i]}`)
-}, 3000);
-}
-Output is  index : 4, element : undefined
-	
-Change method as per closure	
-const arr = [10, 12, 15, 21];
-for (var i = 0; i < arr.length; i++) {
-setTimeout(function() {
-console.log(`index: ${i}, element: ${arr[i]}`)
-}, 3000);
-}
+Q. what is output
+   const arr = [10, 12, 15, 21];
+   for (var i = 0; i < arr.length; i++) {
+      setTimeout(function() {
+         console.log(`index: ${i}, element: ${arr[i]}`)
+      }, 3000);
+   }
+Ans: Output is  index : 4, element : undefined	
+Q. Change method as per closure	
+   const arr = [10, 12, 15, 21];
+   for (var i = 0; i < arr.length; i++) {
+   setTimeout(function() {
+   console.log(`index: ${i}, element: ${arr[i]}`)
+   }, 3000);
+   }
 Ans: function arr2() {
 for(let i = 0; i<arr.length; i++){
 console.log(`index ` + i )
