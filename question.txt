@@ -1,0 +1,46 @@
+1. what are preprocesor?
+2. what are semantics tags?
+3. what is position in css?
+4. diference between sticky and fixed position?
+5. difference between html4 and html5?
+6. what is variables in JS?
+7. what are callback function in js?
+8. what are high order function?
+9. what is this keyword in js?
+10. swapping of two variables with or without using 3rd variable?
+11. what is hoisting in javascript?
+12. what is strict mode in javascript and when it was introduced?
+13. what is ECMAScript ?
+14. what is css Graphics?
+15. what is canvas in html?
+16. make tip calculator program?
+17. what are semantic HTMl?
+18. what is CSS Box model?
+19. difference between inline-block and block and inline element?
+20. difference between element and tag?
+21. what are new things intoduced in HTML5?
+22. which part of page load first HTML or CSS or JS?
+23. what are meta Tags in html?
+24. what is viewport ?
+25. what is adaptive and reponsive design?
+26. what are breakpoints in media query?
+27. what is z-index and what is by default z-index of any tag?
+28. what is bubbling and capturing phase in js?
+29. what is universal selector?
+30. what is variable in CSS?
+31. types of SVG?
+32. Can we use <section> tag inside <footer> tag?
+33. what are entities in html?
+34. difference between Session storage and Local Storage?
+35. what is url encoding in Html?
+36. what is computer code in html?
+37. what is pseudo classes and pseudo element ?
+38. difference between == and === ?
+39. what is flex or flex Box model?
+40. what is grid in css?
+41. define max-width and min-width?
+42. what are CSS Combinator?
+43. Challenges faced during service and complexity also?
+44. what is gulp.js?
+45. script of gulp.js?
+

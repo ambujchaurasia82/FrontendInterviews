@@ -1,0 +1,88 @@
+ What is JSX?
+Can web browsers read JSX directly? 
+What is the virtual DOM?
+Why use React instead of other frameworks, like Angular?
+What is the difference between the ES6 and ES5 standards?
+What is an event in React?
+What are synthetic events in React?
+What is the use of render() in React?
+What is a state in React?
+ How do you update the state of a component?
+What are props in React?
+ How do you pass props between components?
+What are the differences between state and props?
+What is a higher-order component in React?
+How can you embed two or more components into one?
+What are the differences between class and functional components?
+Explain the lifecycle methods of components.
+What is Redux?
+What are the components of Redux?
+What is the Flux?
+How is Redux different from Flux?
+What is React Router?
+Why do we need to React Router?
+ How is React routing different from conventional routing?
+Differentiate between Real DOM and Virtual DOM.
+ What are the limitations of React?
+What is a state in React and how is it used?
+What do you understand by refs in React?
+List some of the cases when you should use Refs.
+What do you know about controlled and uncontrolled components?
+What are Higher Order Components(HOC)?
+What are Pure Components?
+What are the advantages of Redux?
+What is the purpose of the mapStateToProps function in Redux?
+ Explain the difference between server-side rendering and client-side rendering in React.
+What is the difference between a stateless component and a stateful component in React?
+Explain the concept of a Pure Component in React.
+How do you handle optimization in a large React application?
+What is the purpose of the combineReducers function in Redux?
+How do you handle error handling in a React application?
+What is the difference between a smart component and a dumb component in React?
+What are the different ways to pass data between components in React?
+How do you handle performance optimization in a React application?
+What is the difference between a functional component and a class component in React?
+Explain the concept of a Context in React.
+ How do you handle asynchronous data loading in a React application?
+What is the difference between state and props in React?
+Explain the concept of a Hook in React.
+How do you handle localization in a React application?
+What is the difference between a static component and a dynamic component in React?
+How do you handle server-side rendering in a React application?
+What is the difference between a presentational component and a container component in React?
+Explain the concept of a Custom Hook in React.
+ What is the difference between a stateful component and a stateless component in React?
+Explain the concept of a Middleware in Redux.
+Explain the concept of a Memoization in React.
+Compare MVC with Flux?
+In which lifecycle event do you make AJAX requests and why?
+What would you do if your React application is rendering slowly?
+Which is the preferred option callback refs or findDOMNode()?
+What are hooks in React?
+What is the difference between a React component and a React class?
+20. What are the different phases of React component’s lifecycle?
+There are three different phases of React component’s lifecycle:
+Initial Rendering Phase: This is the phase when the component is about to start its life journey and make its way to the DOM.
+Updating Phase: Once the component gets added to the DOM, it can potentially update and re-render only when a prop or state change occurs. That happens only in this phase.
+Unmounting Phase: This is the final phase of a component’s life cycle in which the component is destroyed and removed from the DOM.
+Explain the Flux concept.
+What is the use of useEffect React Hooks?
+How to prevent re-renders in React?
+How to pass data between react components?
+Explain about types of Hooks in React.
+What are refs used for in React?
+What do these three dots (...) in React do?
+What is equivalent of the following using React.createElement?
+What is the difference between ShadowDOM and VirtualDOM?
+What is the difference between using constructor vs getInitialState in React?
+ What's the difference between useCallback and useMemo in practice?
+When to use useState vs useReducer?
+How to conditionally add attributes to React components?
+Why would you need to bind event handlers to this?
+When is it important to pass props to super(), and why?
+ When to use useState vs useReducer?
+ Explain the term stateless components
+What are Fragments?
+What is the StrictMode component and why would you use it?
+Explain the lifecycle methods of React components in detail.
+ What are the three principles that Redux follows?
